@@ -1,0 +1,14 @@
+C:\Users\FA506QM\Desktop\Task2_AorNot\CheckA\bin\Debug\netcoreapp3.1\CheckA.exe
+C:\Users\FA506QM\Desktop\Task2_AorNot\CheckA\bin\Debug\netcoreapp3.1\CheckA.deps.json
+C:\Users\FA506QM\Desktop\Task2_AorNot\CheckA\bin\Debug\netcoreapp3.1\CheckA.runtimeconfig.json
+C:\Users\FA506QM\Desktop\Task2_AorNot\CheckA\bin\Debug\netcoreapp3.1\CheckA.runtimeconfig.dev.json
+C:\Users\FA506QM\Desktop\Task2_AorNot\CheckA\bin\Debug\netcoreapp3.1\CheckA.dll
+C:\Users\FA506QM\Desktop\Task2_AorNot\CheckA\bin\Debug\netcoreapp3.1\CheckA.pdb
+C:\Users\FA506QM\Desktop\Task2_AorNot\CheckA\obj\Debug\netcoreapp3.1\CheckA.csproj.AssemblyReference.cache
+C:\Users\FA506QM\Desktop\Task2_AorNot\CheckA\obj\Debug\netcoreapp3.1\CheckA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA506QM\Desktop\Task2_AorNot\CheckA\obj\Debug\netcoreapp3.1\CheckA.AssemblyInfoInputs.cache
+C:\Users\FA506QM\Desktop\Task2_AorNot\CheckA\obj\Debug\netcoreapp3.1\CheckA.AssemblyInfo.cs
+C:\Users\FA506QM\Desktop\Task2_AorNot\CheckA\obj\Debug\netcoreapp3.1\CheckA.csproj.CoreCompileInputs.cache
+C:\Users\FA506QM\Desktop\Task2_AorNot\CheckA\obj\Debug\netcoreapp3.1\CheckA.dll
+C:\Users\FA506QM\Desktop\Task2_AorNot\CheckA\obj\Debug\netcoreapp3.1\CheckA.pdb
+C:\Users\FA506QM\Desktop\Task2_AorNot\CheckA\obj\Debug\netcoreapp3.1\CheckA.genruntimeconfig.cache
